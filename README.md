@@ -1,2 +1,2 @@
 # first-repo
-this is first reo
+this is first reo.
